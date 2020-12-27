@@ -1,6 +1,7 @@
 # BakeTextureSequence
 This addon bake the lighting result onto texture image sequence from animated object.  
 Tested with Blender2.8 or higher.  
+Download latest release from here [BakeTextureSequnece](https://github.com/naritomo1984/BakeTextureSequence/releases/tag/v1.0)
 
 
 
